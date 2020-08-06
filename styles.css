@@ -278,3 +278,9 @@ h3 {
   max-height: 110px;
 }
 
+.team {
+  width: 25%;
+  height: 20%;
+  margin-right: 10%;
+  border-radius: 50%;
+}
